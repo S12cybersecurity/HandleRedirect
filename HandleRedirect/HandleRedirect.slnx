@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="HandleRedirect/HandleRedirect.vcxproj" Id="ea7ad1b8-202b-4d1d-954e-171f53993c01" />
+</Solution>
